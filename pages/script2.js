@@ -1,7 +1,7 @@
 const urlParams = new URLSearchParams(window.location.search);
 const name = urlParams.get('name');
 
-const aboutMeText = "Moment is the name, 19 Years old, I like coding, playing the guitar, going to the gym, cooking, etc.";
+const aboutMeText = "Johann Liwag is the name, 19 Years old, I like coding, playing the guitar, going to the gym, cooking, etc.";
 const educationText = "Cuurently on my third year in BS Information Technology: Major in Web Technology, Soon taking MS Computer Science.";
 const experienceText = "3 Years of Experience in Software Development, Custom Artificial Intelligence Model Training.";
 const skillsText = "Some of my most notable skills include: Full-Stack Web Development, Advanced Data Structures and Algorithms, Public Speaking.";
